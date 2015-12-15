@@ -1,8 +1,8 @@
 .icon {
 	height: 4.5%;
 	margin-top: 4.5%;
-	margin-left: 45.5%;
-	margin-right: -45.5%;
+	margin-left: 46.5%;
+	margin-right: -46.5%;
 }
 
 
@@ -12,7 +12,7 @@ body {
 
 
 .navbar {
-    background: rgba(0, 135, 48, 0.7);
+   background-color: rgba(38, 44, 44, 0.9);
 }
 
 .navbar .brand, .navbar .nav > li > a {
@@ -23,7 +23,7 @@ body {
  	font-size: 0.80em;
 }
 .navbar .brand, .navbar .nav > li > a:hover {
-    color: #000000;
+    color: rgba(64, 149, 84, 0.9);
 }
 
 #footer {
@@ -69,4 +69,7 @@ body {
    position: relative;
    display: block;
   }
-}
+  
+ h2 {
+  color: rgba(64, 149, 84, 0.9);
+ }

@@ -1,5 +1,5 @@
 .navbar {
-    background: rgba(0, 135, 48, 0.7);
+    background-color: rgba(38, 44, 44, 0.9);
 }
 
 .navbar .brand, .navbar .nav > li > a {
@@ -10,7 +10,7 @@
     font-size: 0.80em;
 }
 .navbar .brand, .navbar .nav > li > a:hover {
-    color: #000000;
+    color: rgba(64, 149, 84, 0.9);
 }
 
 #footer {
@@ -32,6 +32,7 @@
 }
 
 .me {
+    color: rgba(64, 149, 84, 0.9);
     font-size: 1.95em;
     padding-top: 2.5%;
     font-family: 'Fjalla One', sans-serif;
@@ -42,3 +43,4 @@
     padding-top: 1%;
     font-family: 'Lato', sans-serif;
 }
+
