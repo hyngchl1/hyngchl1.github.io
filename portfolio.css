@@ -36,30 +36,41 @@
     padding-top: 1.5%;
     padding-left: 1.0%;
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 1.95em;
+    font-size: 1.90em;
     font-style: italic;
 }
 
-.title1 {
-    font-size: 1.05em;
-    padding-left: 2.28%;
-    padding-top: 1.0em;
-    display: inline;
-    font-family: 'Slabo 27px', serif;
+.btn {
+    background-color: rgba(64, 149, 84, 0.9);
 }
 
-.title2 {
-    font-size: 1.05em;
-    padding-left: 7%;
-    padding-top: 15%;
-    display: inline;
-    font-family: 'Slabo 27px', serif;
+.img-responsive {
+    width: 200;
+    height: 125;
+    margin-left: 20px;
 }
 
-.title3 {
-    font-size: 1.05em;
-    padding-left: 7%;
-    padding-top: 15%;
-    display: inline;
-    font-family: 'Slabo 27px', serif;
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 27px;
+    font-size: 22px;
 }
+
+.sub-header {
+    margin-left: 16.5px;
+    font-family: Times New Roman;
+}
+
+.btn {
+    margin-left: 68.5px;
+    font-size: 12px;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+#thirdTitle {
+    margin-left: 40px;
+}
+

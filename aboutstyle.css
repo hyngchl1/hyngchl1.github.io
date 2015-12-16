@@ -34,6 +34,7 @@
 .me {
     color: rgba(64, 149, 84, 0.9);
     font-size: 1.95em;
+    margin-left: 5px;
     padding-top: 2.5%;
     font-family: 'Fjalla One', sans-serif;
 }
@@ -41,6 +42,7 @@
 .intro {
     font-size: 0.9em;
     padding-top: 1%;
+    margin-left: 5px;
     font-family: 'Lato', sans-serif;
 }
 
