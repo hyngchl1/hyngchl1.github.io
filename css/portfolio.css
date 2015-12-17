@@ -48,6 +48,7 @@
     width: 200;
     height: 125;
     margin-left: 20px;
+    margin-top: 15px;
 }
 
 h3 {
@@ -57,7 +58,12 @@ h3 {
 }
 
 .sub-header {
-    margin-left: 16.5px;
+    margin-left: 16.0px;
+    font-family: Times New Roman;
+}
+
+.sub-header-fourth {
+    margin-left: 30px;
     font-family: Times New Roman;
 }
 
@@ -76,6 +82,8 @@ h3 {
 }
 
 #fourthTitle {
-    margin-left: 35px;
+    margin-left: 2.2px;
 }
+
+
 
