@@ -1,5 +1,5 @@
 body {
-   height: 1000px;
+   height: 1600px;
 }
 
 .navbar {
@@ -49,7 +49,7 @@ body {
 }
 
 .img-responsive {
-    width: 200;
+    width: 190;
     height: 125;
     margin-left: 20px;
     margin-top: 15px;
@@ -58,11 +58,16 @@ body {
 h3 {
     font-family: 'Open Sans Condensed', sans-serif;
     padding-left: 27px;
-    font-size: 22px;
+    font-size: 19px;
 }
 
 .sub-header {
     margin-left: 16.0px;
+    font-family: Times New Roman;
+}
+
+.sub-header-third {
+    margin-left: 25px;
     font-family: Times New Roman;
 }
 
@@ -87,7 +92,7 @@ h3 {
 }
 
 #thirdTitle {
-    margin-left: 1.5px;
+    margin-left: 0.5px;
 }
 
 #fourthTitle {
