@@ -1,3 +1,7 @@
+body {
+   height: 1000px;
+}
+
 .navbar {
     background-color: rgba(38, 44, 44, 0.9);
 }
@@ -67,6 +71,11 @@ h3 {
     font-family: Times New Roman;
 }
 
+.sub-header-fifth {
+    margin-left: 12px;
+    font-family: Times New Roman;
+}
+
 .btn {
     margin-left: 68px;
     font-size: 12px;
@@ -85,3 +94,10 @@ h3 {
     margin-left: 2.2px;
 }
 
+#fifthTitle {
+    margin-left: 5px;
+}
+
+#img-newspaper { 
+    margin-top: 30px;
+}
