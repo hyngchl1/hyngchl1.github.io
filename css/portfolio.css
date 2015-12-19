@@ -1,5 +1,5 @@
 body {
-   height: 1600px;
+   height: 1000px;
 }
 
 .navbar {
@@ -44,9 +44,18 @@ body {
     font-style: italic;
 }
 
+/*BUTTON */
+
 .btn {
     background-color: rgba(64, 149, 84, 0.9);
+    margin-left: 68px;
+    font-size: 12px;
 }
+
+.btn:hover {
+    background-color: black;
+}
+
 
 .img-responsive {
     width: 190;
@@ -61,13 +70,36 @@ h3 {
     font-size: 19px;
 }
 
+/*TITLES*/
+
+#thirdTitle {
+    margin-left: 0.5px;
+}
+
+#fourthTitle {
+    margin-left: 2.2px;
+}
+
+#fifthTitle {
+    margin-left: 14px;
+}
+
+#sixthTitle {
+    margin-left: 25px;
+}
+
+#img-newspaper { 
+    margin-top: 30px;
+}
+
+/*SUBHEADERS*/
 .sub-header {
     margin-left: 16.0px;
     font-family: Times New Roman;
 }
 
 .sub-header-third {
-    margin-left: 25px;
+    margin-left: 18px;
     font-family: Times New Roman;
 }
 
@@ -81,29 +113,7 @@ h3 {
     font-family: Times New Roman;
 }
 
-.btn {
-    margin-left: 68px;
-    font-size: 12px;
-
-}
-
-.btn:hover {
-    background-color: black;
-}
-
-#thirdTitle {
-    margin-left: 0.5px;
-}
-
-#fourthTitle {
-    margin-left: 2.2px;
-}
-
-#fifthTitle {
-    margin-left: 5px;
-}
-
-#img-newspaper { 
-    margin-top: 30px;
+.sub-header-sixth {
+    font-family: Times New Roman;
 }
 
