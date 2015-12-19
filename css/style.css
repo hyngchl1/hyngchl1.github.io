@@ -73,3 +73,20 @@ body {
  h2 {
   color: rgba(64, 149, 84, 0.9);
  }
+
+#social #container{
+    text-align:center;
+    margin-top: 25px;
+}
+
+.fa-linkedin {
+  padding-right: 4px;
+}
+
+.fa-facebook {
+  padding-right: 4px;
+}
+
+.fa-envelope {
+  padding-right: 4px;
+}
