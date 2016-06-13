@@ -10,7 +10,7 @@
     font-size: 0.80em;
 }
 .navbar .brand, .navbar .nav > li > a:hover {
-    color: rgba(64, 149, 84, 0.9);
+    color: #6699FF;
 }
 
 #footer {
@@ -32,7 +32,7 @@
 }
 
 .me {
-    color: rgba(64, 149, 84, 0.9);
+    color: #6699FF;
     font-size: 1.95em;
     margin-left: 5px;
     padding-top: 2.5%;

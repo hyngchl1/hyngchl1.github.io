@@ -23,7 +23,7 @@ body {
  	font-size: 0.80em;
 }
 .navbar .brand, .navbar .nav > li > a:hover {
-    color: rgba(64, 149, 84, 0.9);
+    color: #6699FF;
 }
 
 #footer {
@@ -71,7 +71,7 @@ body {
   }
   
  h2 {
-  color: rgba(64, 149, 84, 0.9);
+  color: #6699FF;
  }
 
 #social #container{
